@@ -1,0 +1,3 @@
+[submodule "Plugins/RuntimeAssetImportPlugin"]
+	path = Plugins/RuntimeAssetImportPlugin
+	url = https://github.com/Udon-Tobira/RuntimeAssetImportPlugin.git
